@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ProjectOne.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ProjectOneDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MotionControlCardUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Doc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlg2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlg3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlg4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlg5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlg6.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlg7.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlg1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HandEyeCalibration.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MfcUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyRealButton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HalconUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ParamUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myStruct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HalconTemplateUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HalconMotionCardUnion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="dmc1380Util.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MvsUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlg9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlg8.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SerialPort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimateDlgIcon.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlg10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SocketUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlg11.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="crcCompute.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="crc32.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Conveyor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCamera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PixelType.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ProjectOne.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectOneDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MotionControlCardUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Doc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlg2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlg3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlg4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlg5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlg6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlg7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlg1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HandEyeCalibration.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MfcUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyRealButton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HalconUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ParamUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HalconTemplateUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HalconMotionCardUnion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dmc1380Util.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MvsUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlg9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlg8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SerialPort.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimateDlgIcon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlg10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SocketUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlg11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="crcCompute.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="crc32.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Conveyor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyCamera.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ProjectOne.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\ProjectOne.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\CURSOR1.CUR">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\SCOMM.RC2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\ProjectOne.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ANIM.BMP">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\choosepath.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\COMM.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\GREEN.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ICON_GRE.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ICON_NOT.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon_not1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ICON_ON.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ICON_ON1.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\OFF.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Pinned.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Pinned2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\RED.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\UNPINNED.BMP">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\xiaofengstudio.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
